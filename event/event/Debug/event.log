@@ -1,0 +1,3 @@
+﻿  event.cpp
+C:\Users\gasan\source\repos\event\event\event.cpp(30,6): warning C4101: i: неиспользованная локальная переменная
+  event.vcxproj -> C:\Users\gasan\source\repos\event\Debug\event.exe

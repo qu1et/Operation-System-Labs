@@ -1,0 +1,3 @@
+﻿  wtfMan2.cpp
+C:\Users\gasan\source\repos\wtfMan2\wtfMan2\wtfMan2.cpp(106,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  wtfMan2.vcxproj -> C:\Users\gasan\source\repos\wtfMan2\Debug\wtfMan2.exe
