@@ -1,0 +1,10 @@
+﻿  OS4.cpp
+c:\users\maxx\source\repos\os4\os4\os4.cpp(189): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\maxx\source\repos\os4\os4\os4.cpp(319): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\maxx\source\repos\os4\os4\os4.cpp(337): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "LPCTSTR"
+  c:\users\maxx\source\repos\os4\os4\os4.cpp(337): note: рекомендуется использовать "%ls" в строке форматирования
+  c:\users\maxx\source\repos\os4\os4\os4.cpp(337): note: рекомендуется использовать "%lls" в строке форматирования
+  c:\users\maxx\source\repos\os4\os4\os4.cpp(337): note: рекомендуется использовать "%Ls" в строке форматирования
+  c:\users\maxx\source\repos\os4\os4\os4.cpp(337): note: рекомендуется использовать "%ws" в строке форматирования
+c:\users\maxx\source\repos\os4\os4\os4.cpp(396): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  OS4.vcxproj -> C:\Users\maxx\source\repos\OS4\Debug\OS4.exe
