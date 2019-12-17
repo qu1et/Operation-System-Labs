@@ -1,19 +1,19 @@
 ﻿  secondLab.cpp
-C:\Users\gasan\source\repos\secondLab\secondLab\secondLab.cpp(19,34): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-C:\Users\gasan\source\repos\secondLab\secondLab\secondLab.cpp(24,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\alkad\OneDrive\Рабочий стол\Operation-System-Labs\secondLab\secondLab\secondLab.cpp(19,34): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\alkad\OneDrive\Рабочий стол\Operation-System-Labs\secondLab\secondLab\secondLab.cpp(24,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : см. объявление "strcpy"
-C:\Users\gasan\source\repos\secondLab\secondLab\secondLab.cpp(43,1): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\alkad\OneDrive\Рабочий стол\Operation-System-Labs\secondLab\secondLab\secondLab.cpp(43,1): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(927): message : см. объявление "mbstowcs"
-C:\Users\gasan\source\repos\secondLab\secondLab\secondLab.cpp(89,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\alkad\OneDrive\Рабочий стол\Operation-System-Labs\secondLab\secondLab\secondLab.cpp(89,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : см. объявление "getch"
-C:\Users\gasan\source\repos\secondLab\secondLab\secondLab.cpp(100,1): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\alkad\OneDrive\Рабочий стол\Operation-System-Labs\secondLab\secondLab\secondLab.cpp(100,1): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(205): message : см. объявление "wcsncpy"
-C:\Users\gasan\source\repos\secondLab\secondLab\secondLab.cpp(105,1): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\alkad\OneDrive\Рабочий стол\Operation-System-Labs\secondLab\secondLab\secondLab.cpp(105,1): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(205): message : см. объявление "wcsncpy"
-C:\Users\gasan\source\repos\secondLab\secondLab\secondLab.cpp(228,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\alkad\OneDrive\Рабочий стол\Operation-System-Labs\secondLab\secondLab\secondLab.cpp(228,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : см. объявление "getch"
-C:\Users\gasan\source\repos\secondLab\secondLab\secondLab.cpp(231,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\alkad\OneDrive\Рабочий стол\Operation-System-Labs\secondLab\secondLab\secondLab.cpp(231,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : см. объявление "getch"
-C:\Users\gasan\source\repos\secondLab\secondLab\secondLab.cpp(234,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\alkad\OneDrive\Рабочий стол\Operation-System-Labs\secondLab\secondLab\secondLab.cpp(234,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : см. объявление "getch"
-  secondLab.vcxproj -> C:\Users\gasan\source\repos\secondLab\Debug\secondLab.exe
+  secondLab.vcxproj -> C:\Users\alkad\OneDrive\Рабочий стол\Operation-System-Labs\secondLab\Debug\secondLab.exe

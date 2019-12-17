@@ -132,7 +132,7 @@
     <ResourceCompile Include="firstLab.rc" />
   </ItemGroup>
   <ItemGroup>
-    <Manifest Include="E:\appname. exe.manifest" />
+    <Manifest Include="..\appname.exe.manifest" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

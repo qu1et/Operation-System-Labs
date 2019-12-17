@@ -5,6 +5,7 @@
 using namespace std;
 void main()
 {
+	setlocale(LC_ALL, "Russian");
 	char buffer[MAX_COMPUTERNAME_LENGTH + 1];
 	DWORD size;
 	size = sizeof(buffer);
@@ -82,7 +83,7 @@ void main()
 	cout << "Current batery charge: " << charge << endl;
 	FIRMWARE_TYPE tp;
 
-	cout << "System firmware type: " << GetFirmwareType(&tp) << ". What means thet it is bios type.\n";
+	cout << "System firmware type: " << GetFirmwareType(&tp) << endl;
 	MEMORYSTATUSEX statex;
 
 	statex.dwLength = sizeof(statex);

@@ -30,6 +30,6 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <Manifest Include="E:\appname. exe.manifest" />
+    <Manifest Include="..\appname.exe.manifest" />
   </ItemGroup>
 </Project>

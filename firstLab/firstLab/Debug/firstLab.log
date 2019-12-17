@@ -1,1 +1,3 @@
-﻿  firstLab.vcxproj -> C:\Users\gasan\source\repos\firstLab\Debug\firstLab.exe
+﻿  Source.cpp
+C:\Users\alkad\OneDrive\Рабочий стол\Operation-System-Labs\firstLab\firstLab\Source.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  firstLab.vcxproj -> C:\Users\alkad\OneDrive\Рабочий стол\Operation-System-Labs\firstLab\Debug\firstLab.exe
