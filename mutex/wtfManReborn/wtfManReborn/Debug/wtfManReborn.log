@@ -1,3 +1,1 @@
-﻿  wtfManReborn.cpp
-C:\Users\gasan\source\repos\wtfManReborn\wtfManReborn\wtfManReborn.cpp(12,1): warning C4326: возвращаемый тип "wmain" должен быть "int", а не "void"
-  wtfManReborn.vcxproj -> C:\Users\gasan\source\repos\wtfManReborn\Debug\wtfManReborn.exe
+﻿  wtfManReborn.vcxproj -> C:\Users\alkad\OneDrive\Рабочий стол\Operation-System-Labs\mutex\wtfManReborn\Debug\wtfManReborn.exe

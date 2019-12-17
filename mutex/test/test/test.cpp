@@ -32,9 +32,9 @@ int main()
 	}
 
 	std::cout << "Open mutex\n";
-	fo.open("C:\\Users\\gasan\\source\\repos\\mutex.txt", std::ios::app);
-	std::thread th1(print_block, 5, 'M');
-	std::thread th2(print_block, 3, 'K');
+	fo.open("C:\\mutex.txt", std::ios::app);
+	std::thread th1(print_block, 5, '&');
+	std::thread th2(print_block, 5, '*');
 
 	th1.join();
 	th2.join();
